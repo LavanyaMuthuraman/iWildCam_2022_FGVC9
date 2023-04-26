@@ -13,4 +13,7 @@ In this notebook, I provide an overview of the competition and explore the datas
 
 This year we are also providing count annotations on 1780 of the 36,292 train sequences (check the metadata/train_sequence_counts.csv file). We hope you will find them useful in building better models. We do not provide any count annotations for the test set.
 
+<img width="800" alt="segmentation" src="https://user-images.githubusercontent.com/109660074/234645822-254a0208-e5e9-45e8-8788-4a0e12dc87b5.png">
+
+
 ---
